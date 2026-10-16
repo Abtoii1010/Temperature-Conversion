@@ -1,0 +1,162 @@
+/* h1{
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#SPA {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+/* 
+#lbl {
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.container {
+    text-align: center;
+
+}
+
+#decreaseBtn{
+    font-size: 4rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border-color: none;
+    margin-right: 24px;
+    color: aqua;
+    background-color: beige;
+    border-radius: 7px;
+    cursor: pointer;
+    transition:  background-color 0.35s;
+}
+
+#increaseBtn{
+    font-size: 4rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border-color: none;
+    margin-right: 24px;
+    color: aqua;
+    background-color: beige;
+    border-radius: 6px;
+    cursor: pointer;
+    transition:  background-color 0.35s;
+}
+
+#resetBtn{
+    font-size: 4rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border-color: none;
+    margin-right: 24px;
+    color: aqua;
+    background-color: beige;
+    border-radius: 8px;
+    cursor: pointer;
+    transition:  background-color 0.35s;
+}
+
+
+#resetBtn:hover,
+#increaseBtn:hover,
+#decreaseBtn:hover{
+    background-color: rgba(22, 177, 53, 0.726);
+} */
+
+
+/* 
+
+input,
+label {
+    font-size: 2rem;
+}
+
+
+button{
+    /* text-align: center; */
+    /* font-size: 1.5rem; */
+/* } */ 
+
+
+form{
+    max-height: 6000px;
+    justify-content: center; 
+    margin: auto;
+    background-color: rgb(255, 235, 205);
+    border-radius: 12px;
+    max-width: 500px;
+    box-shadow: 4px 4px 4px 4px  #0000003a;
+}
+
+.myH1{
+    font-size: 2.5em;
+    color: brown;
+    /* padding-left: 75px; */
+    padding-top: 12px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+}
+
+
+
+
+input{
+    width: 30px;
+    height: 15px;
+    margin-left: 15px; 
+}
+
+#inp2{
+    margin-bottom: 48px;
+}
+
+#inp3{
+margin-bottom: 62px;
+}
+
+#inp1{
+    /* margin-left: 135px; */
+    padding: 2px 16px 4px 16px;
+    width: 200px;
+    height: 50px;
+    margin-left: 100px;
+    margin-bottom: 48px;
+    border-radius: 4px;
+    font-size: 36px;
+}
+
+label{
+    font-size: 2rem;
+}
+
+#btn{
+       padding: 9px 50px 9px 50px;
+       margin-left:120px;
+       /* margin-left: 12px;
+       width: 540px; */
+       font-size: 36px;
+       color:rgb(40, 156, 46);
+       background-color: rgb(197, 183, 183);
+      border-radius:18px;
+      transition: all 0.5s;
+      margin-bottom: 12px;
+}
+
+#btn:hover{
+ background-color:rgb(219, 125, 81) ;
+ color: green;
+}
+
+
+
+#para{
+    font-size: 24px;
+    margin-left: 50px;
+    color: blue;
+}
